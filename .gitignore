@@ -1,0 +1,16 @@
+# Uploaded profile pictures
+uploads/profile/*
+
+# Keep the upload directory
+!uploads/profile/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
